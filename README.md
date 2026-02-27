@@ -144,6 +144,33 @@
 
 ---
 
+## Ⅵ. 아카이브 구조
+
+```plaintext
+COLD_ARCHIVES/
+├─ Bloc_I/                     # 제1세계
+│  ├─ USA/                     # 미국 (CIA / DDP)
+│  │  ├─ README.md             # 정책 방향 및 운용 철학
+│  │  └─ CIA_DDP_Orientation_1963.pdf
+│  │
+│  └─ UK/                      # 영국 (SIS / MI6)
+│     ├─ README.md
+│     └─ SIS_Induction_1963.pdf
+│
+├─ Bloc_II/                    # 제2세계
+│  ├─ USSR/                    # 소련 (KGB PGU)
+│  │  ├─ README.md
+│  │  └─ KGB_PGU_Training_1962.pdf
+│  │
+│  └─ CHN/                     # 중국 (CID)
+│     ├─ README.md
+│     └─ CID_Training_1964.pdf
+│
+└─ README.md                   # 통합 세계관 개요
+```
+
+---
+
 ## 면책 고지
 
 본 프로젝트는 허구입니다.
